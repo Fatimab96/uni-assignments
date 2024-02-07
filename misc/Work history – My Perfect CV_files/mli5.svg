@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 1 -->
+<svg x="0" y="0" width="935" height="1210" viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_1"><path d="M0,0H935V1210H0Z"/></clipPath>
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1{
+font-size: 55.00px;
+font-family: DejaVuSans-Bold_e;
+fill: #2C5A77;
+font-weight: bold;
+font-style: normal;
+}
+.s2{
+font-size: 21.39px;
+font-family: DejaVuSans-Bold_e;
+fill: #2C5A77;
+font-weight: bold;
+font-style: normal;
+}
+.s3{
+font-size: 15.28px;
+font-family: DejaVuSans_o;
+fill: #242424;
+font-weight: normal;
+font-style: normal;
+}
+.s4{
+font-size: 15.28px;
+font-family: DejaVuSans-Bold_e;
+fill: #242424;
+font-weight: bold;
+font-style: normal;
+}
+.s5{
+font-size: 13.75px;
+font-family: DejaVuSans-Oblique_t;
+fill: #242424;
+font-weight: normal;
+font-style: italic;
+}
+.s6{
+font-size: 15.28px;
+font-family: Symbol;
+fill: #242424;
+font-weight: normal;
+font-style: normal;
+}
+.s7{
+font-size: 13.75px;
+font-family: Saira;
+fill: #242424;
+font-weight: normal;
+font-style: normal;
+}
+.s8{
+font-size: 15.28px;
+font-family: Saira;
+fill: #242424;
+}
+.s9{
+font-size: 15.28px;
+font-family: Saira;
+fill: #FFFFFF;
+font-weight: normal;
+font-style: normal;
+}
+.sa{
+font-size: 15.28px;
+font-family: Saira;
+fill: #FFFFFF;
+font-weight: normal;
+font-style: normal;
+}
+.sb{
+font-size: 21.39px;
+font-family: Saira;
+fill: #FFFFFF;
+font-weight: bold;
+font-style: normal;
+}
+
+.g0{
+fill: #2C5A77;
+}
+.g1{
+fill: none;
+stroke: #000000;
+stroke-width: 0.763;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g2{
+fill: none;
+stroke: #2C5A77;
+stroke-width: 1.527;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g3{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.527;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+
+]]></style>
+
+</defs>
+<g clip-path="url(#c_1)">
+<path d="M0,0
+L0,1210
+L935,1210
+L935,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<path fill-rule="evenodd" d="M559.9,1136.6H904.4V30.6H559.9v1106Z" class="g0"/>
+<path fill-rule="evenodd" d="M559.9,1136.6H904.4V30.6H559.9v1106Z" class="g0"/>
+<path d="M30.6,1137H904.4" class="g1"/>
+<text x="67" y="160" dx="0,1.3,1.3,1.3,1.3,1.3,1.4,1.3,1.3,2" class="s1">DOM  </text>
+<text x="215" y="160" dx="0,1.3,1.3,1.3,1.3,1.3,1.3" class="s1">WEBSTER</text>
+<text x="67" y="274" dx="0,.7,.8,.7,.8,.8,.7,.7,.7" class="s2">OBJECTIVE</text>
+<text x="67" y="314" dx="0,0,.1,-.1,0,0,.1,0,0,0,0,0,0,0,0,0,0,0,-.1,0,-.1,0,0,0,0,0,0,.1,0,0,0,.1,-.2,.1,0,.1,-.1,0,0,.1,0,0,-.1,-.1,0,.1,0,-.1,0,0,0,0,-.1,0,0,0" class="s3">To ﬁnd a fulﬁlling position where I can apply my skills </text>
+<text x="67" y="335" dx="0,0,0,.1,0,0,0,0,0,0,.1,-.1,-.1,.1" class="s3">and knowledge.</text>
+<text x="67" y="398" dx="0,.8,.8,.6,.8,.8,.8,.8,.7,.7,.7,.7,.9,.6,.8,.8,.7,.7,.7,.8" class="s2">PROFESSIONAL SUMMARY</text>
+<text x="67" y="437" dx="0,-.1,0,0,0,-.1,-.1,0,0,0,0,.1,.2,0,0,-.2,.1,0,0,0,0,0,0,.1,0,.1,-.2,.1,0,0,0,0,0,.1,0,0,0,0,0,0,0,0,0,0,0,0,.1,0,0,0,0,0" class="s3">Accomplished Operations executive with a successful </text>
+<text x="67" y="459" dx="0,0,0,0,0,.2,0,-.2,.1,0,0,0,.1,0,0,-.2,.1,0,0,.1,-.1,0,0,.1,0,0,.1,-.1,0,0,0,0,0,0,0,0,0,0,.1,0,0,0,-.1,.2,0,-.1,0,0" class="s3">track record overseeing regional Marketing, IT, </text>
+<text x="67" y="480" dx="0,0,-.1,0,0,0,0,0,0,0,.1,.1,0,0,0,.1,0,-.1,0,0,-.1,.1,0,0,.1,0,0,0,0,0,0,-.1,-.1,0,0,.3,-.1,0,0,.1,0,0,0,0,0,0,0,0,0,.2" class="s3">HR/training and property in company and franchise </text>
+<text x="67" y="502" dx="0,0,-.1,.1,0,0,0,0,0,0,.1,0,0,0,.1,-.1,.1,-.1,0,0,0,-.1,.1,0,0,0,0,0,.1,0,0,0,0,-.2,.1,0,0,0,0,0,.1,0,0,0" class="s3">operations for a large chain of restaurants.</text>
+<text x="67" y="564" dx="0,.8,.6,.8,.8,.8,.7,.8,.7,.6" class="s2">EXPERIENCE</text>
+<text x="67" y="604" dx="0,0,.1,0,0,0,0,0,0,0,0,0,0,0,.2,0,0,0,0,.1,0,-.1,0,0" class="s4">Executive Vice President</text>
+<text x="230" y="604" class="s3">, </text>
+<text x="240" y="604" class="s5">09/2015</text>
+<text x="290" y="604" class="s3">to </text>
+<text x="305" y="604" class="s5">02/2019</text>
+<text x="67" y="625" dx="0,0,0,-.1,-.1,.3,-.1,0,0,.1,0,0,.1,-.1,0,0,-.1,0,.1,0,0,0,.1,0,0,-.1,-.1,.1,0,-.1,0,-.1,0,0,0,.2,0,0,.1,0,0" class="s3">Pizza Hut UK &amp; Ireland , St Albans, Herts</text>
+<text x="67" y="647" class="s6">●</text>
+<text x="85" y="647" dx="0,0,.1,-.1,0,0,-.1,.1,0,0,0,0,0,0,.1,0,0,0,0,0,0,0,.1,-.1,0,0,0,0,0,0,0,0,0,0,.2,0,0,0,.1,-.1,-.1,0,0,.1,.1,0,0,0,0,0,0,-.1,0,0" class="s3">Led operations involved in running the brand including</text>
+<text x="85" y="668" dx="0,0,0,0,0,.1,0,0,0,-.1,.2,0,-.1,0,0,0,0,-.1,0,0,0,0,0,0,0,0,-.1,.2,0,-.1,.1,0,-.1,0,0,-.1,-.1,.1,0,0,0,0,0,.1,0,0,0,0,.2,0,0,0,0,.2" class="s3">Marketing, IT, HR/training, development/construction, </text>
+<text x="85" y="689" dx="0,-.1,0,0,-.1,.1,0,0,.3,-.1,0,0,.1,0,0,0,0,0,0,0,0,0,0,-.1,0,0,0,0,0,0,.1,0,-.1,0,0,0,0,0,0,0,0" class="s3">property and P&amp;L for 200 store locations.</text>
+<text x="67" y="711" class="s6">●</text>
+<text x="85" y="711" dx="0,0,0,.1,0,0,0,0,0,0,-.1,.1,0,0,0,0,0,0,.1,0,0,0,0,0,0,-.1,0,0,0,.1,-.1,0,0,0,0,.2,-.1,0,0,-.1,-.1,.1,0,.1,0,0,0,.1" class="s3">Oversaw operations for all regional company and </text>
+<text x="85" y="732" dx="0,0,0,0,0,0,0,0,0,.2,0,0,0,0,0,0,0,0,0,0" class="s3">franchise locations.</text>
+<text x="67" y="754" class="s6">●</text>
+<text x="85" y="754" dx="0,-.1,0,0,.1,0,0,.1,.1,-.1,-.1,0,0,0,0,.1,-.1,0,0,0,0,.1,-.1,0,.1,0,-.1,0,0,0,0,0,0,.1,0,0,0,-.1,-.1,0,0,.3,-.1,-.1,0,0,0,.1,0,0,.1,0" class="s3">Assessed proﬁtability of existing company processes </text>
+<text x="85" y="775" dx="0,0,.1,-.1,-.1,.1,0,.1,0,-.1,0,0,.1,0,0,-.1,0,0,-.1,.1,.1,0,0,0,-.1,0,0,0,0,0,0,0,0,.1,0,.2,0,0,0,0,0,0,0,0,0,.2,-.1,0,0,.1" class="s3">to determine optimum organisational structure for </text>
+<text x="85" y="796" dx="0,-.1,0,0,0,-.1,.1,.1,0,-.2,.1,0,.1,0,0,.1,0,-.1,0,0,0,0,0" class="s3">maximum revenue growth.</text>
+<text x="67" y="859" dx="0,.8,.7,.8,.8,.7,.7,.7,.7" class="s2">EDUCATION</text>
+<text x="67" y="899" dx="0,0,.1,0,-.1,0,0,-.2,.1" class="s4">BA (Hons)</text>
+<text x="140" y="899" class="s3">, </text>
+<text x="150" y="899" dx="0,-.1,.1,-.1" class="s7">2006</text>
+<text x="67" y="920" dx="0,0,0,0,0,0,0,.1,0,0,.1,0,-.2,.1,0,0,0,.1,0,0,0,0,.1,-.1,0,.1" class="s4">University Of Westminster </text>
+<text x="250" y="920" class="s3">- </text>
+<text x="260" y="920" dx="0,-.1,0,.1,0,0,.1,0,0,0,0,0,-.1,0" class="s8">Greater London</text>
+<text x="67" y="942" dx="0,0,0,0,0,0,.1,0,0,0,0,0,0,0,-.1,.1,-.1,.1,0,.4" class="s3">Business Management </text>
+<text x="67" y="1004" dx="0,.7,.8,.7,.7,.7,.8,.7,.8,.7,.7,.7,.7,.7" class="s2">QUALIFICATIONS</text>
+<text x="67" y="1044" dx="0,0,-.1,0,.1,0,0,0,0,0,0,0,.1,0,.1,-.1,0,-.1,0,0,-.1,0,.2,0,0,0,0,0,-.1,.1,-.1,.1,0,.3,-.1,-.1,0,0,0,0,.1,0,0,0,0,.3" class="s3">CGMA (Chartered Global Management Accountant) </text>
+<text x="67" y="1065" dx="0,0,0,0,0,.1,0,0,.1,.1,-.1,-.1,.1,0,0,0,.1,0,0,0,0,0,0,.1,0,.1,-.1,0,-.1,0,0,0,0,0,0,0,.2,0,0,0,0,0,0,0,0,-.1,.1,-.1,.1,0,.3" class="s3">conferred by the Chartered Institute of Management </text>
+<text x="67" y="1087" dx="0,-.1,0,0,0,0,0,.1,0,0,0,.3,0,0,0,-.1,0,-.1,0,0,0,0,-.1,0" class="s3">Accountants (CIMA), 2010</text>
+<text x="598" y="94" dx="0,0,.1,.1,0,0,-.1,.1,0" class="s9">Address: </text>
+<text x="659" y="94" dx="0,-.1,0,0,0,0,0,-.1,0,0,.1,0,0,0,0,.1,0,0,-.1,0" class="sa">46 Roman Rd </text>
+<text x="598" y="115" dx="0,-.1,0,-.1,0,0,0,.2,0,0,.1,0,0,.1,0,-.1,0,0,0,-.1,0,-.1" class="sa">Leeds, LS2 3ZR</text>
+<text x="598" y="144" class="s9">Phone: </text>
+<text x="650" y="144" dx="0,0,-.1,0,-.1,0,-.1,0,0,-.1,0" class="sa">07912 345 678</text>
+<text x="598" y="173" dx="0,0,0,-.1,0,0,.3" class="s9">Email: </text>
+<text x="645" y="173" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,.1,0,0,0,0,0" class="sa">dom.webster@example.co.uk</text>
+<text x="598" y="305" dx="0,.8,.7,.7,.7,.7" class="sb">SKILLS</text>
+<text x="598" y="344" class="s6">●</text>
+<text x="616" y="344" dx="0,0,0,.1,0,0,0,0,0,.1,0,0,.1,0,-.1,0,0,.1,0,-.1,.1,0,0,0,0" class="sa">Executive team leadership</text>
+<text x="598" y="366" class="s6">●</text>
+<text x="616" y="366" dx="0,0,0,0,0,0,-.1,0,0,0,0,0,.1,-.1,-.1,0,0,.1,.1,0,0,0,0" class="sa">Multimillion pound P&amp;L </text>
+<text x="616" y="387" dx="0,-.1,0,0,.1,-.1,.1,-.1,.1,0,.1,0,.1,0,-.1,.1,0,0,0,-.2,.1,0,0,0,0" class="sa">management expertise for </text>
+<text x="616" y="408" dx="0,-.1,0,0,.1,.1,0,0,0,0,.1,-.1,0,.1,-.1,0,0" class="sa">South East region</text>
+<text x="598" y="430" class="s6">●</text>
+<text x="616" y="430" dx="0,0,0,-.1,.1,0,0,0,-.1,.1,0,-.1,0,.3,-.1,0,.1,0,0,0,0,0,0" class="sa">Client/Vendor relations</text>
+<text x="598" y="451" class="s6">●</text>
+<text x="616" y="451" dx="0,0,0,0,0,.1,0,0,0,-.1,0,-.1,0,.1,-.1,0,0,.3,0,-.1,0,0,.1" class="sa">Marketing/product line </text>
+<text x="616" y="473" dx="0,-.1,.1,0,.1,0,0,-.1,-.1,.1,0" class="sa">development</text>
+<text x="598" y="494" class="s6">●</text>
+<text x="616" y="494" dx="0,-.1,0,0,0,0,0,0,0,0,0,0,.1,.1,0,-.1,0,0,0,0,0" class="sa">Staﬀ/training policy </text>
+<text x="616" y="515" dx="0,-.1,.1,0,.1,0,0,-.1,-.1,.1,0" class="sa">development</text>
+<text x="598" y="537" class="s6">●</text>
+<text x="616" y="537" dx="0,0,0,0,0,.1,0,.1,-.1,0,-.1,-.1,0,0,0,.1,-.1,.1,0" class="sa">Process improvement</text>
+<path d="M67.2,205.2H509.4m0,75.1H67.2M509.4,404H67.2M509.4,570.5H67.2M509.4,865.4H67.2m442.2,145.1H67.2" class="g2"/>
+<path d="M866.2,229.9H559.9m306.3,80.9H559.9" class="g3"/>
+<path d="M67.2,205.2H509.4m0,75.1H67.2M509.4,404H67.2M509.4,570.5H67.2M509.4,865.4H67.2m442.2,145.1H67.2" class="g2"/>
+<path d="M866.2,229.9H559.9m306.3,80.9H559.9" class="g3"/>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+
+
+</svg>
